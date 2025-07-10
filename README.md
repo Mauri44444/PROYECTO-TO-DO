@@ -1,4 +1,4 @@
-# PROYECTO-TO-DO
+# LISTa DE TAREAS
 Una pagina hecha con HTML, CSS Y JAVASCRIPT.
 Es una pagina que funciona como lista de tareas. 
 Permite añadir, modificar y eliminar las tareas.
